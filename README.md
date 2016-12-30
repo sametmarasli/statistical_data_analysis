@@ -22,6 +22,6 @@ work in process...
 
 
 
-<A href='http://nbviewer.jupyter.org/github/sametmarasli/statistical_data_analysis/blob/master/statistical_data_analysis/descriptive_statistics.ipynb'>Descriptive Statistics</A><BR>
+<A href='http://nbviewer.jupyter.org/github/sametmarasli/statistical_data_analysis/blob/master/notebooks/descriptive_statistics.ipynb'>Descriptive Statistics</A><BR>
 
-<A href='http://nbviewer.jupyter.org/github/sametmarasli/statistical_data_analysis/blob/master/statistical_data_analysis/inferential_statistics.ipynb'>Inferential Statistics</A><BR>
+<A href='http://nbviewer.jupyter.org/github/sametmarasli/statistical_data_analysis/blob/master/notebooks/inferential_statistics.ipynb'>Inferential Statistics</A><BR>
