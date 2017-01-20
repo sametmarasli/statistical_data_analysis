@@ -2,7 +2,6 @@
 
 Inspired by Udacity's Introduction to Statistics course, this repository is an attempt to apply several statistical concepts to little datasets provided by the course by using Python 2.7. For most of the code in this repository, I have used existing Python data science libraries such as numpy, pandas, scipy, matplotlib and seaborn.
 
-work in process...
 
 ## Topics covered
 
